@@ -1,0 +1,106 @@
+* {
+    font-family: "Special Elite", sans-serif;
+}
+
+.content-section {
+    margin-bottom: 30px;
+}
+
+.container-fluid {
+    padding: 30px 10px;
+}
+
+#line {
+    border-top: 1px solid silver;
+}
+
+.jumbotron {
+    background: #fff;
+    border-bottom: 1px solid silver;
+    border-radius: 0;
+    height: 200px;
+}
+
+.breadcrumb a {
+    color: #000;
+}
+
+.breadcrumb .active, a:hover {
+    text-decoration: none;
+    color: firebrick;
+}
+
+.jumbotron img {
+    width: 125px;
+    height: 125px;
+    border: 1px solid silver;
+    box-shadow: 0 10px 10px grey;
+}
+
+.info-box {
+   padding: 50px 60px 50px 60px;
+   border-radius: 5px;
+}
+
+.blue {
+   background-color: rgb(186, 203, 214);
+}
+
+.orange {
+    background-color: rgb(235, 205, 199);
+}
+
+.qoute {
+    padding: 10px 30px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.navbar-brand {
+    color: firebrick !important;
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    z-index: 9999;
+    box-shadow: 0 2px 10px grey;
+}
+
+.nav-link {
+    color: #000 !important;
+    position: relative;
+    float: right;
+}
+
+.nav-link:hover {
+    color: firebrick !important;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img {
+    width: 120px;
+    height: 120px;
+}
+
+.red-words {
+    color: firebrick;
+    font-weight: 500;
+}
+
+.head {
+    background-color: black;
+    border-left: 9px solid #eceeef;
+    border-right: 9px solid #eceeef;
+    width: 200px;
+    padding: 5px 5px;
+    color: #fff;
+    margin: 0 auto;
+}
+
+.media-heading {
+    color: firebrick;
+}
